@@ -7,7 +7,7 @@ output: html_document
 
 EID: ppb434
 
-Github Repo: [https://github.com/PrestonBui/SDS315-HW3](https://github.com/PrestonBui/SDS315-HW3)
+Github Repo: [https://github.com/PrestonBui/SDS315-HW4](https://github.com/PrestonBui/SDS315-HW4)
 
 ```{r message = FALSE, echo = FALSE}
 library(ggplot2)
